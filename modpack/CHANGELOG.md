@@ -1,3 +1,15 @@
+# Version 2.0.0
+
+**Fecha:** 2026-06-27
+
+## Removed
+- mods/voicechat-fabric-2.6.20+26.2.jar
+
+## Notes
+
+mods v1.0
+
+---
 # Version 1.5.0
 
 **Fecha:** 2026-06-27

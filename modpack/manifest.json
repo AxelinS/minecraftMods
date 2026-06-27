@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "generated_at": "2026-06-27T16:03:18Z",
+  "version": "2.0.0",
+  "generated_at": "2026-06-27T17:00:28Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -595,15 +595,6 @@
       "modified": "2026-06-24T23:52:21Z",
       "type": "jar",
       "url": "pack/mods/vmp-fabric-mc26.2-rc-2-0.2.0+beta.7.235-all.jar"
-    },
-    {
-      "path": "mods/voicechat-fabric-2.6.20+26.2.jar",
-      "filename": "voicechat-fabric-2.6.20+26.2.jar",
-      "size": 5569123,
-      "sha256": "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645",
-      "modified": "2026-06-24T23:47:13Z",
-      "type": "jar",
-      "url": "pack/mods/voicechat-fabric-2.6.20+26.2.jar"
     },
     {
       "path": "mods/waveycapes-fabric-1.10.2-mc26.2.jar",
