@@ -1,4 +1,4 @@
 # Modpack Manager — requirements
 # Install with: pip install -r requirements.txt
-
+nuitka>=2.3.0
 customtkinter>=5.2.0
