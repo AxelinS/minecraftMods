@@ -1,0 +1,19 @@
+# .manifestignore
+# Syntax: one pattern per line, # = comment, * = wildcard
+# Patterns are matched against each path component and full relative path.
+# A pattern ending with / matches directories only.
+
+# OS / editor artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Large launcher files (uncomment if needed)
+# *.zip
+# *.tar.gz
