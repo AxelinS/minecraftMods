@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "generated_at": "2026-06-27T03:17:01Z",
+  "version": "1.2.0",
+  "generated_at": "2026-06-27T03:35:02Z",
   "files": [
     {
       "path": "mods/fabric-api-0.153.0+26.2.jar",
@@ -12,13 +12,13 @@
       "url": "pack/mods/fabric-api-0.153.0+26.2.jar"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "filename": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "size": 8076848,
-      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
-      "modified": "2026-06-25T00:07:28Z",
+      "path": "mods/FarmersDelight-26.2-3.6.6+refabricated.jar",
+      "filename": "FarmersDelight-26.2-3.6.6+refabricated.jar",
+      "size": 3446227,
+      "sha256": "5f9d6eb32d22ffef5f344c9cfaa4739b16f5181078ea877c157290135fd2e88c",
+      "modified": "2026-06-25T00:09:11Z",
       "type": "jar",
-      "url": "pack/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar"
+      "url": "pack/mods/FarmersDelight-26.2-3.6.6+refabricated.jar"
     }
   ]
 }
