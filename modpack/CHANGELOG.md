@@ -1,3 +1,15 @@
+# Version 1.5.0
+
+**Fecha:** 2026-06-27
+
+## Added
+- mods/appleskin-fabric-mc26.2-3.0.10.jar
+
+## Notes
+
+test
+
+---
 # Version 1.4.0
 
 **Fecha:** 2026-06-27
