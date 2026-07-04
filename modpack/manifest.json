@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "generated_at": "2026-07-04T17:34:24Z",
+  "version": "2.1.1",
+  "generated_at": "2026-07-04T17:42:00Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -181,6 +181,15 @@
       "modified": "2026-06-24T23:46:07Z",
       "type": "jar",
       "url": "pack/mods/ferritecore-9.0.0-fabric.jar"
+    },
+    {
+      "path": "mods/FokusAPI-v4.4_MOD.jar",
+      "filename": "FokusAPI-v4.4_MOD.jar",
+      "size": 66087,
+      "sha256": "307d461fd2c41ba9dc59d2ea05d6406539503475029208b4e20ff57b0db40bee",
+      "modified": "2026-07-04T17:40:24Z",
+      "type": "jar",
+      "url": "pack/mods/FokusAPI-v4.4_MOD.jar"
     },
     {
       "path": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
@@ -433,6 +442,15 @@
       "modified": "2026-06-25T00:14:11Z",
       "type": "jar",
       "url": "pack/mods/PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar"
+    },
+    {
+      "path": "mods/reactify-1.4.b1_MOD.jar",
+      "filename": "reactify-1.4.b1_MOD.jar",
+      "size": 9829,
+      "sha256": "a4a84cbd51dd3f48903fb8c2489d68107cb7e8f5a624b270c392e32c0ccf3b67",
+      "modified": "2026-07-04T17:40:01Z",
+      "type": "jar",
+      "url": "pack/mods/reactify-1.4.b1_MOD.jar"
     },
     {
       "path": "mods/ResourcefulLib-5.0.0.jar",

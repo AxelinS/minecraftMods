@@ -1,3 +1,16 @@
+# Version 2.1.1
+
+**Fecha:** 2026-07-04
+
+## Added
+- mods/FokusAPI-v4.4_MOD.jar
+- mods/reactify-1.4.b1_MOD.jar
+
+## Notes
+
+fix dependencies
+
+---
 # Version 2.0.0
 
 **Fecha:** 2026-06-27
