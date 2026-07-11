@@ -1,3 +1,64 @@
+# Version 2.1.2
+
+**Fecha:** 2026-07-11
+
+## Added
+- mods/BrutalNightmare-v6.5_MOD.jar
+- mods/brutalnightmarecci-4.0-SNAPSHOT.jar
+- mods/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar
+- mods/fabric-api-0.154.2+26.2.jar
+- mods/FarmersDelight-26.2-3.6.7+refabricated.jar
+- mods/FokusAPI-v4.5_MOD.jar
+- mods/hydrofarm-fabric-0.3.1.jar
+- mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar
+- mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar
+- mods/iris-fabric-1.11.2+mc26.2.jar
+- mods/jei-26.2-fabric-30.10.0.59.jar
+- mods/libIPN-fabric-26.2-6.8.2.jar
+- mods/lithium-fabric-0.25.2+mc26.2.jar
+- mods/modmenu-20.0.1.jar
+- mods/MyTotemDoll-2.6.0+26.2+fabric.jar
+- mods/polymer-bundled-0.17.3+26.2.jar
+- mods/punchy-2.6.2-fabric-26.2.jar
+- mods/ResourcefulLib-5.0.1.jar
+- mods/ShoulderSurfing-Fabric-26.2-5.0.5.jar
+- mods/shulkerboxtooltip-fabric-5.4.0+26.2.jar
+- mods/sodium-fabric-0.9.1+mc26.2.jar
+- mods/Stellarity-5.5.3.jar
+- mods/vmp-fabric-mc26.2-0.2.0+beta.7.236-all.jar
+
+## Updated
+- mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar
+
+## Removed
+- mods/BrutalNightmare-v6.3_MOD.jar
+- mods/c2me-fabric-mc26.2-0.4.2-alpha.0.8.jar
+- mods/fabric-api-0.153.0+26.2.jar
+- mods/FarmersDelight-26.2-3.6.6+refabricated.jar
+- mods/FokusAPI-v4.4_MOD.jar
+- mods/hydrofarm-fabric-0.2.5.jar
+- mods/ImmediatelyFast-Fabric-1.16.0+26.2.jar
+- mods/InventoryProfilesNext-fabric-26.2-2.3.4.jar
+- mods/iris-fabric-1.11.1+mc26.2.jar
+- mods/jei-26.2-fabric-30.2.0.15.jar
+- mods/libIPN-fabric-26.2-6.8.1.jar
+- mods/lithium-fabric-0.25.0+mc26.2.jar
+- mods/modmenu-20.0.0-beta.4.jar
+- mods/MyTotemDoll-2.5.0+26.2+fabric.jar
+- mods/polymer-bundled-0.17.0+26.2-rc-2.jar
+- mods/punchy-2.5.8-fabric-26.2.jar
+- mods/ResourcefulLib-5.0.0.jar
+- mods/ShoulderSurfing-Fabric-26.2-5.0.2.jar
+- mods/shulkerboxtooltip-fabric-5.3.1+26.2.jar
+- mods/sodium-fabric-0.9.0+mc26.2.jar
+- mods/Stellarity-5.5.2.jar
+- mods/vmp-fabric-mc26.2-rc-2-0.2.0+beta.7.235-all.jar
+
+## Notes
+
+mods update
+
+---
 # Version 2.1.1
 
 **Fecha:** 2026-07-04
