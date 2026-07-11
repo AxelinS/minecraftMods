@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "generated_at": "2026-07-11T16:24:28Z",
+  "version": "2.1.3",
+  "generated_at": "2026-07-11T22:34:59Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -208,15 +208,6 @@
       "modified": "2026-07-11T15:30:01Z",
       "type": "jar",
       "url": "pack/mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
-    },
-    {
-      "path": "mods/ghast-mayhem-1.4.jar",
-      "filename": "ghast-mayhem-1.4.jar",
-      "size": 2246112,
-      "sha256": "9b736af232c3631b8ef76536ff0559741775d15425a0a60ff90141380790d7dd",
-      "modified": "2026-06-25T01:18:00Z",
-      "type": "jar",
-      "url": "pack/mods/ghast-mayhem-1.4.jar"
     },
     {
       "path": "mods/graves-3.12.0+26.2.jar",

@@ -1,3 +1,15 @@
+# Version 2.1.3
+
+**Fecha:** 2026-07-11
+
+## Removed
+- mods/ghast-mayhem-1.4.jar
+
+## Notes
+
+bugfix
+
+---
 # Version 2.1.2
 
 **Fecha:** 2026-07-11
