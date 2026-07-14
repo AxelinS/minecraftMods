@@ -1,6 +1,6 @@
 {
-  "version": "2.1.3",
-  "generated_at": "2026-07-11T22:34:59Z",
+  "version": "26.2.0",
+  "generated_at": "2026-07-14T22:55:37Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -577,6 +577,15 @@
       "modified": "2026-06-25T00:55:41Z",
       "type": "jar",
       "url": "pack/mods/takesapillage-fabric-1.0.12+mc26.2.jar"
+    },
+    {
+      "path": "mods/tianguiscraft-1.0.0.jar",
+      "filename": "tianguiscraft-1.0.0.jar",
+      "size": 38934,
+      "sha256": "6010954d9addf56c147d893ec6505fb10a5f6dbdba76d1f8c159d713cd088d7d",
+      "modified": "2026-07-14T22:49:49Z",
+      "type": "jar",
+      "url": "pack/mods/tianguiscraft-1.0.0.jar"
     },
     {
       "path": "mods/trade-cycling-fabric-1.0.21+26.2.jar",

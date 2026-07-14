@@ -1,3 +1,15 @@
+# Version 26.2.0
+
+**Fecha:** 2026-07-14
+
+## Added
+- mods/tianguiscraft-1.0.0.jar
+
+## Notes
+
+mod experimental tianguiscraft
+
+---
 # Version 2.1.3
 
 **Fecha:** 2026-07-11
