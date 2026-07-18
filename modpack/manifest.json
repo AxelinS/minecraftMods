@@ -1,6 +1,6 @@
 {
-  "version": "26.2.0",
-  "generated_at": "2026-07-14T22:55:37Z",
+  "version": "26.2.1",
+  "generated_at": "2026-07-18T17:20:54Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -39,13 +39,13 @@
       "url": "pack/mods/boatiview-fabric-0.0.9-26.2.jar"
     },
     {
-      "path": "mods/BrutalNightmare-v6.5_MOD.jar",
-      "filename": "BrutalNightmare-v6.5_MOD.jar",
-      "size": 922419,
-      "sha256": "21299aa113f42fd5750f9ba869e009c5e393f0621b08dffd46889d7a5b79d542",
-      "modified": "2026-07-11T15:26:08Z",
+      "path": "mods/BrutalNightmare-v6.8.402_MOD.jar",
+      "filename": "BrutalNightmare-v6.8.402_MOD.jar",
+      "size": 920199,
+      "sha256": "b2f4fc0a72a9602484a2bf0c3677c682d08705793c4c360e2b5424d80228b927",
+      "modified": "2026-07-18T17:01:57Z",
       "type": "jar",
-      "url": "pack/mods/BrutalNightmare-v6.5_MOD.jar"
+      "url": "pack/mods/BrutalNightmare-v6.8.402_MOD.jar"
     },
     {
       "path": "mods/brutalnightmarecci-4.0-SNAPSHOT.jar",
@@ -57,13 +57,13 @@
       "url": "pack/mods/brutalnightmarecci-4.0-SNAPSHOT.jar"
     },
     {
-      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar",
-      "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar",
-      "size": 3779880,
-      "sha256": "afb1d91ef0c6c9dd4e5cf83ef7844e787a40ecea242b36888015a974fec8ef01",
-      "modified": "2026-07-11T15:29:14Z",
+      "path": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.20.jar",
+      "filename": "c2me-fabric-mc26.2-0.4.2-alpha.0.20.jar",
+      "size": 3782853,
+      "sha256": "93cdd9d254dbb818bbcaad2c4a38e53989003797701b1d63f7d93c167ac27f59",
+      "modified": "2026-07-18T17:02:02Z",
       "type": "jar",
-      "url": "pack/mods/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar"
+      "url": "pack/mods/c2me-fabric-mc26.2-0.4.2-alpha.0.20.jar"
     },
     {
       "path": "mods/chat_heads-1.2.4-fabric-26.1.jar",
@@ -147,31 +147,31 @@
       "url": "pack/mods/Ecologics-NeoFab-26.2-2.6.0.jar"
     },
     {
-      "path": "mods/elytratrims-fabric-4.8.2+26.2.jar",
-      "filename": "elytratrims-fabric-4.8.2+26.2.jar",
-      "size": 819419,
-      "sha256": "d3cc41a31a4fc3a3c39d2a658d5081002f6505493e9d55e8ff49c9fdda3946de",
-      "modified": "2026-06-25T00:07:27Z",
+      "path": "mods/elytratrims-fabric-4.9.0-beta.3+26.2.jar",
+      "filename": "elytratrims-fabric-4.9.0-beta.3+26.2.jar",
+      "size": 823064,
+      "sha256": "e5e3b0f33d4b1582f04e4e8281db35a72c32c1ecc3c44b61d62bc84909d248e4",
+      "modified": "2026-07-18T17:02:05Z",
       "type": "jar",
-      "url": "pack/mods/elytratrims-fabric-4.8.2+26.2.jar"
+      "url": "pack/mods/elytratrims-fabric-4.9.0-beta.3+26.2.jar"
     },
     {
-      "path": "mods/fabric-api-0.154.2+26.2.jar",
-      "filename": "fabric-api-0.154.2+26.2.jar",
-      "size": 2523877,
-      "sha256": "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446",
-      "modified": "2026-07-11T15:30:16Z",
+      "path": "mods/fabric-api-0.155.2+26.2.jar",
+      "filename": "fabric-api-0.155.2+26.2.jar",
+      "size": 2530080,
+      "sha256": "d6518c770024cbe8a556248f16fcdbb91c6a62f50227a6c3bae8190511e2c1b8",
+      "modified": "2026-07-18T17:02:33Z",
       "type": "jar",
-      "url": "pack/mods/fabric-api-0.154.2+26.2.jar"
+      "url": "pack/mods/fabric-api-0.155.2+26.2.jar"
     },
     {
-      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "filename": "fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
-      "size": 8076848,
-      "sha256": "36c5dd8b728e3470d2882ae63119b93a20500fc0ea6f5c945c12bf65b5ab1832",
-      "modified": "2026-07-11T15:29:42Z",
+      "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "filename": "fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
+      "size": 8076363,
+      "sha256": "34ccdacf13bb9351fe43ce61912c2e09b72364e43e787d36ba3d2d04dec75a52",
+      "modified": "2026-07-18T17:02:13Z",
       "type": "jar",
-      "url": "pack/mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar"
+      "url": "pack/mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"
     },
     {
       "path": "mods/FarmersDelight-26.2-3.6.7+refabricated.jar",
@@ -219,22 +219,22 @@
       "url": "pack/mods/graves-3.12.0+26.2.jar"
     },
     {
-      "path": "mods/hydrofarm-fabric-0.3.1.jar",
-      "filename": "hydrofarm-fabric-0.3.1.jar",
-      "size": 668027,
-      "sha256": "e438ef2eb63a048fd202f3d8f08c1bafb2039b583e847b51a1cba17a5d015cca",
-      "modified": "2026-07-11T15:29:24Z",
+      "path": "mods/hydrofarm-fabric-0.3.4.jar",
+      "filename": "hydrofarm-fabric-0.3.4.jar",
+      "size": 669299,
+      "sha256": "63a956c192d9d1521e0fe31e85ad5a9ab72da2201cdd94d1644b1f579c398cfd",
+      "modified": "2026-07-18T17:02:16Z",
       "type": "jar",
-      "url": "pack/mods/hydrofarm-fabric-0.3.1.jar"
+      "url": "pack/mods/hydrofarm-fabric-0.3.4.jar"
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar",
-      "filename": "ImmediatelyFast-Fabric-1.16.1+26.2.jar",
-      "size": 90736,
-      "sha256": "bdf031e79458ee237844692e6569acc1812cc04f1e90775f836908ddab05d0f0",
-      "modified": "2026-07-11T15:29:27Z",
+      "path": "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+      "filename": "ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+      "size": 91422,
+      "sha256": "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770",
+      "modified": "2026-07-18T17:02:19Z",
       "type": "jar",
-      "url": "pack/mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar"
+      "url": "pack/mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar"
     },
     {
       "path": "mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
@@ -264,13 +264,13 @@
       "url": "pack/mods/jamlib-fabric-2.3.1+26.2.x.jar"
     },
     {
-      "path": "mods/jei-26.2-fabric-30.10.0.59.jar",
-      "filename": "jei-26.2-fabric-30.10.0.59.jar",
-      "size": 1660127,
-      "sha256": "40e67019986ff79adc25f521bff338d373e57452d0415b85be77de1286f8dbcb",
-      "modified": "2026-07-11T15:29:39Z",
+      "path": "mods/jei-26.2-fabric-30.12.0.72.jar",
+      "filename": "jei-26.2-fabric-30.12.0.72.jar",
+      "size": 1615168,
+      "sha256": "f15e60ef575d70adcf2f0e905eab2a2cbe710add3939bd1fff6004fe57f3d1b6",
+      "modified": "2026-07-18T17:02:22Z",
       "type": "jar",
-      "url": "pack/mods/jei-26.2-fabric-30.10.0.59.jar"
+      "url": "pack/mods/jei-26.2-fabric-30.12.0.72.jar"
     },
     {
       "path": "mods/Katters Structures Only Dungeons v2.5.jar",
@@ -435,13 +435,13 @@
       "url": "pack/mods/punchy-2.6.2-fabric-26.2.jar"
     },
     {
-      "path": "mods/PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar",
-      "filename": "PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar",
-      "size": 1142960,
-      "sha256": "4ac7f13798ba87d96222eb7c9b889f2b5b94462ee4ba201ce92fc063f04e1c1f",
-      "modified": "2026-06-25T00:14:11Z",
+      "path": "mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+      "filename": "PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar",
+      "size": 1146181,
+      "sha256": "d5ce2ad7f99d8e403015f585d55064d591dcd90705483a8f5ce0f90c59e8d669",
+      "modified": "2026-07-18T17:02:24Z",
       "type": "jar",
-      "url": "pack/mods/PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar"
+      "url": "pack/mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar"
     },
     {
       "path": "mods/reactify-1.4.b1_MOD.jar",
@@ -453,13 +453,13 @@
       "url": "pack/mods/reactify-1.4.b1_MOD.jar"
     },
     {
-      "path": "mods/ResourcefulLib-5.0.1.jar",
-      "filename": "ResourcefulLib-5.0.1.jar",
+      "path": "mods/ResourcefulLib-5.0.2.jar",
+      "filename": "ResourcefulLib-5.0.2.jar",
       "size": 454215,
-      "sha256": "4e3f511135903ac43e7fb3a1b2af958f28bfab04f68f4cfeaf3339fd6b1e2fdc",
-      "modified": "2026-07-11T15:29:57Z",
+      "sha256": "0122779fbd78bff23cdf27ddb063ed91335d506ac13d7dd6c82191eb709f9bd1",
+      "modified": "2026-07-18T17:02:28Z",
       "type": "jar",
-      "url": "pack/mods/ResourcefulLib-5.0.1.jar"
+      "url": "pack/mods/ResourcefulLib-5.0.2.jar"
     },
     {
       "path": "mods/rightclickharvest-fabric-4.6.2+26.2.x.jar",
@@ -480,13 +480,13 @@
       "url": "pack/mods/servercore-fabric-1.5.19+26.2.jar"
     },
     {
-      "path": "mods/ShoulderSurfing-Fabric-26.2-5.0.5.jar",
-      "filename": "ShoulderSurfing-Fabric-26.2-5.0.5.jar",
-      "size": 343843,
-      "sha256": "b9abf5c6618e25a41daca1e0bc794615fa2dec5799906179ab0420a2c76b70ee",
-      "modified": "2026-07-11T15:30:00Z",
+      "path": "mods/ShoulderSurfing-Fabric-26.2-5.0.7.jar",
+      "filename": "ShoulderSurfing-Fabric-26.2-5.0.7.jar",
+      "size": 343765,
+      "sha256": "8398379220cc581bb1092a23bc23c645bd4afbe52483a915a285b401680ab17a",
+      "modified": "2026-07-18T17:02:33Z",
       "type": "jar",
-      "url": "pack/mods/ShoulderSurfing-Fabric-26.2-5.0.5.jar"
+      "url": "pack/mods/ShoulderSurfing-Fabric-26.2-5.0.7.jar"
     },
     {
       "path": "mods/shulkerboxtooltip-fabric-5.4.0+26.2.jar",

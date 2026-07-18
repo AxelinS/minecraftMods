@@ -1,3 +1,38 @@
+# Version 26.2.1
+
+**Fecha:** 2026-07-18
+
+## Added
+- mods/BrutalNightmare-v6.8.402_MOD.jar
+- mods/c2me-fabric-mc26.2-0.4.2-alpha.0.20.jar
+- mods/elytratrims-fabric-4.9.0-beta.3+26.2.jar
+- mods/fabric-api-0.155.2+26.2.jar
+- mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar
+- mods/hydrofarm-fabric-0.3.4.jar
+- mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar
+- mods/jei-26.2-fabric-30.12.0.72.jar
+- mods/PuzzlesLib-v26.2.1-mc26.2.x-Fabric.jar
+- mods/ResourcefulLib-5.0.2.jar
+- mods/ShoulderSurfing-Fabric-26.2-5.0.7.jar
+
+## Removed
+- mods/BrutalNightmare-v6.5_MOD.jar
+- mods/c2me-fabric-mc26.2-0.4.2-alpha.0.13.jar
+- mods/elytratrims-fabric-4.8.2+26.2.jar
+- mods/fabric-api-0.154.2+26.2.jar
+- mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar
+- mods/hydrofarm-fabric-0.3.1.jar
+- mods/ImmediatelyFast-Fabric-1.16.1+26.2.jar
+- mods/jei-26.2-fabric-30.10.0.59.jar
+- mods/PuzzlesLib-v26.2.0-mc26.2.x-Fabric.jar
+- mods/ResourcefulLib-5.0.1.jar
+- mods/ShoulderSurfing-Fabric-26.2-5.0.5.jar
+
+## Notes
+
+some updates
+
+---
 # Version 26.2.0
 
 **Fecha:** 2026-07-14
