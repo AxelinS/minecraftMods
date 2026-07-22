@@ -1,6 +1,6 @@
 {
-  "version": "26.2.1",
-  "generated_at": "2026-07-18T17:20:54Z",
+  "version": "26.2.2",
+  "generated_at": "2026-07-22T01:38:22Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -451,6 +451,15 @@
       "modified": "2026-07-04T17:40:01Z",
       "type": "jar",
       "url": "pack/mods/reactify-1.4.b1_MOD.jar"
+    },
+    {
+      "path": "mods/reforzadocraft-1.0.0.jar",
+      "filename": "reforzadocraft-1.0.0.jar",
+      "size": 18522,
+      "sha256": "cd9e7b062e90772f78cb5e339af09678f893cc4f60eee97cf4f3fa9348424b8d",
+      "modified": "2026-07-22T01:32:02Z",
+      "type": "jar",
+      "url": "pack/mods/reforzadocraft-1.0.0.jar"
     },
     {
       "path": "mods/ResourcefulLib-5.0.2.jar",

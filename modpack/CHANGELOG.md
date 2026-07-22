@@ -1,3 +1,11 @@
+# Version 26.2.2
+
+**Fecha:** 2026-07-22
+
+## Added
+- mods/reforzadocraft-1.0.0.jar
+
+---
 # Version 26.2.1
 
 **Fecha:** 2026-07-18

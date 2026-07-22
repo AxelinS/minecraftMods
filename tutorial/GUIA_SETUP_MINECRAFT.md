@@ -14,7 +14,7 @@
 2. Crea o abre una **instalación (instance)** nueva.
 3. Selecciona la **versión 26.2** de Minecraft.
 
-![Minecraft Launcher - selección de versión](minecraft_install_0.png)
+![Minecraft Launcher - selección de versión](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/minecraft_install_0.png)
 
 ---
 
@@ -29,11 +29,11 @@
    - Elige **Client** como tipo de instalación.
    - Presiona **Install**.
 
-![Fabric Installer - configuración inicial](fabric_install_1.png)
+![Fabric Installer - configuración inicial](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/fabric_install_1.png)
 
-![Fabric Installer - opciones de versión](fabric_install_2.png)
+![Fabric Installer - opciones de versión](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/fabric_install_2.png)
 
-![Fabric Installer - proceso de instalación](fabric_install_3.png)
+![Fabric Installer - proceso de instalación](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/fabric_install_3.png)
 
 ---
 
@@ -49,9 +49,9 @@ Elige **una** de las siguientes opciones:
 > 1. Haz clic en **"Más información"**.
 > 2. Presiona **"Ejecutar de todos modos"**.
 
-![Windows Defender - Más información](if_windows_defender_moreInfo_1.png)
+![Windows Defender - Más información](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/if_windows_defender_moreInfo_1.png)
 
-![Windows Defender - Ejecutar de todos modos](if_windows_defender_runAnyway_2.png)
+![Windows Defender - Ejecutar de todos modos](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/if_windows_defender_runAnyway_2.png)
 
 1. Descarga **Modpack Updater** desde [este enlace (Google Drive)](https://drive.google.com/file/d/1LAe5gxguPj8RRNGODmgUaQGR-Q70qecs/view?usp=sharing) o compila su codigo de [GitHub](https://github.com/AxelinS/modpackUpdater).
 2. Ejecuta el programa.
@@ -59,7 +59,7 @@ Elige **una** de las siguientes opciones:
 4. Presiona el botón **"Buscar Actualizaciones"**.
 5. El programa descargará/actualizará todos los mods automáticamente.
 
-![Modpack Updater - interfaz principal](modpackUpdater_6.png)
+![Modpack Updater - interfaz principal](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/modpackUpdater_6.png)
 
 > ⚠️ **Ten en cuenta:** Modpack Updater puede **borrar mods** que agregues manualmente. Solo usa mods oficiales del pack.
 
@@ -72,7 +72,7 @@ Elige **una** de las siguientes opciones:
 1. Descarga el pack de mods desde [este enlace (Google Drive)](https://drive.google.com/file/d/1bYzbY2v77YSA-hhwiMlgocg7ZYbhS_YW/view?usp=drive_link).
 2. **Extrae el archivo `.zip`**.
 
-![Contenido del ZIP de mods](extraer_mods_4.png)
+![Contenido del ZIP de mods](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/extraer_mods_4.png)
 
 3. Abre tu carpeta `.minecraft`:
    - **Windows:** Presiona `Win + R`, escribe `%appdata%/.minecraft` y presiona Enter.
@@ -80,7 +80,7 @@ Elige **una** de las siguientes opciones:
    - **Linux:** `~/.minecraft/`
 4. Copia la carpeta `mods` dentro de `.minecraft` (si la carpeta `mods` no existe, créala).
 
-![Carpeta de mods extraída](carpeta_mods_5.png)
+![Carpeta de mods extraída](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/carpeta_mods_5.png)
 
 ---
 
@@ -89,11 +89,11 @@ Elige **una** de las siguientes opciones:
 1. Abre el **Minecraft Launcher** y selecciona la instalación de **Fabric 26.2**.
 2. Presiona **Jugar** para entrar al juego.
 
-![Pantalla principal de Minecraft](minecraft_title_screen.png)
+![Pantalla principal de Minecraft](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/minecraft_title_screen.png)
 
 3. En el menú principal, presiona **"Multijugador"** → **"Agregar servidor"**.
 
-![Pantalla de Multijugador](minecraft_multiplayer_screen.png)
+![Pantalla de Multijugador](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/minecraft_multiplayer_screen.png)
 
 4. En la pantalla de **"Agregar servidor"**, completa los datos:
 
@@ -102,7 +102,7 @@ Elige **una** de las siguientes opciones:
 | Nombre      | (el que quieras, ej: "Mi Servidor") |
 | IP/Address  | `mainkra.axelins.cc`      |
 
-![Configuración del servidor](minecraft_addServer.png)
+![Configuración del servidor](https://raw.githubusercontent.com/AxelinS/minecraftMods/main/tutorial/minecraft_addServer.png)
 
 5. Presiona **"Listo"** y luego **"Entrar al servidor"**.
 
