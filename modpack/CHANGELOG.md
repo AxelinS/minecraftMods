@@ -1,3 +1,17 @@
+# Version 26.2.3
+
+**Fecha:** 2026-08-05
+
+## Added
+- mods/balm-fabric-26.2-26.2.0.5.jar
+- mods/shogi-fabric-26.2-26.2.0.4.jar
+- mods/waystones-fabric-26.2-26.2.0.7.jar
+
+## Notes
+
+waystones
+
+---
 # Version 26.2.2
 
 **Fecha:** 2026-07-22

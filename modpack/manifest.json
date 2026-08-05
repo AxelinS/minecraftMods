@@ -1,6 +1,6 @@
 {
-  "version": "26.2.2",
-  "generated_at": "2026-07-22T01:38:22Z",
+  "version": "26.2.3",
+  "generated_at": "2026-08-05T01:06:54Z",
   "files": [
     {
       "path": "mods/almanac-1.26.x-fabric-1.6.2.1.jar",
@@ -28,6 +28,15 @@
       "modified": "2026-06-24T23:48:13Z",
       "type": "jar",
       "url": "pack/mods/BadOptimizations-2.4.1-26.2-fabric.jar"
+    },
+    {
+      "path": "mods/balm-fabric-26.2-26.2.0.5.jar",
+      "filename": "balm-fabric-26.2-26.2.0.5.jar",
+      "size": 1196569,
+      "sha256": "8ce3eaf45dfe67196dd879e6f21240374fb779d2528af2575bd5240a5525eba2",
+      "modified": "2026-08-05T01:01:17Z",
+      "type": "jar",
+      "url": "pack/mods/balm-fabric-26.2-26.2.0.5.jar"
     },
     {
       "path": "mods/boatiview-fabric-0.0.9-26.2.jar",
@@ -489,6 +498,15 @@
       "url": "pack/mods/servercore-fabric-1.5.19+26.2.jar"
     },
     {
+      "path": "mods/shogi-fabric-26.2-26.2.0.4.jar",
+      "filename": "shogi-fabric-26.2-26.2.0.4.jar",
+      "size": 452375,
+      "sha256": "a6d805aa5e7f15930041fd5a0febe950456913493f78e7c140a9e1a7ffe81435",
+      "modified": "2026-08-05T01:01:11Z",
+      "type": "jar",
+      "url": "pack/mods/shogi-fabric-26.2-26.2.0.4.jar"
+    },
+    {
       "path": "mods/ShoulderSurfing-Fabric-26.2-5.0.7.jar",
       "filename": "ShoulderSurfing-Fabric-26.2-5.0.7.jar",
       "size": 343765,
@@ -649,6 +667,15 @@
       "modified": "2026-06-24T23:51:59Z",
       "type": "jar",
       "url": "pack/mods/waveycapes-fabric-1.10.2-mc26.2.jar"
+    },
+    {
+      "path": "mods/waystones-fabric-26.2-26.2.0.7.jar",
+      "filename": "waystones-fabric-26.2-26.2.0.7.jar",
+      "size": 1206407,
+      "sha256": "278cdba9df9352d811d0b82bca57ecedfc59a3ab64dd2d5f073079a58554316a",
+      "modified": "2026-08-05T01:01:19Z",
+      "type": "jar",
+      "url": "pack/mods/waystones-fabric-26.2-26.2.0.7.jar"
     },
     {
       "path": "mods/yet_another_config_lib_v3-3.9.5+26.2-fabric.jar",
